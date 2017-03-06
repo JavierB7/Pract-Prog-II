@@ -1,0 +1,6 @@
+C:\Users\javie\Desktop\IV Semestre 2017-1\Programacion II\Parcial 1\Marcel\Practica 1\Practica 1\Practica 1\bin\Debug\Practica 1.exe.config
+C:\Users\javie\Desktop\IV Semestre 2017-1\Programacion II\Parcial 1\Marcel\Practica 1\Practica 1\Practica 1\bin\Debug\Practica 1.exe
+C:\Users\javie\Desktop\IV Semestre 2017-1\Programacion II\Parcial 1\Marcel\Practica 1\Practica 1\Practica 1\bin\Debug\Practica 1.pdb
+C:\Users\javie\Desktop\IV Semestre 2017-1\Programacion II\Parcial 1\Marcel\Practica 1\Practica 1\Practica 1\obj\Debug\Practica 1.csprojResolveAssemblyReference.cache
+C:\Users\javie\Desktop\IV Semestre 2017-1\Programacion II\Parcial 1\Marcel\Practica 1\Practica 1\Practica 1\obj\Debug\Practica 1.exe
+C:\Users\javie\Desktop\IV Semestre 2017-1\Programacion II\Parcial 1\Marcel\Practica 1\Practica 1\Practica 1\obj\Debug\Practica 1.pdb
